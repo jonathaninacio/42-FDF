@@ -3,4 +3,4 @@
 Topographie en fil de fer
 
 ![screenshot](fdffrance.png?raw=true)
-![alt text][nyan.gif?raw=true]
+![](https://raw.githubusercontent.com/jonathaninacio/42-FDF/master/nyan.gif)
